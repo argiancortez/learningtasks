@@ -1,1 +1,29 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Home</title>
+		<link rel="stylesheet" href="sheet.css">
+		</head>
+		
+		<body>
+		<nav>
+			<ul class="nav_links">
+			<li><a href="index.php">Back</a></li>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="solution.html">Solution</a></li>
+			<li><a href="gallery.html">Gallery</a></li>
+			<li><a href="aboutus.html">About Us</a></li>
+			</ul>
+		</nav>
+		
+			<div id="Background">
+				<div id="Main">
+					<h1 class="Aspiring">Poverty striked the Philippines.</h1>
+					<p class="SubAspire">Poverty has been killing our country slowly. Families and their children are suffering. Act Now!</p>
+				</div>
+		</div>
+		
+		<img src="Tondo.jpg" alt="1" style="float:right" class="Introduction">
+		<img src="Slums.jpg" alt="2" style="float:right" class="Introduction">
+		</body>
+	</html>
