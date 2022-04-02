@@ -13,4 +13,4 @@
    <li><a href="/CLE1MT/index.html"> MIDTERM EXAM </a> </li>
 </ul>
 <body>
-</html>
+<html>
