@@ -12,5 +12,5 @@
    <li><a href="/LT4/index.html"> LEARNING TASK 4 </a> </li>
    <li><a href="/CLE1MT/index.html"> MIDTERM EXAM </a> </li>
 </ul>
-</body>
+<body>
 </html>
